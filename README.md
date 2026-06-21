@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Bilal Malik
 
-<!--
-**mbmalik786/mbmalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Quantum Computing Developer  
+💻 Learning Python, Qiskit & Quantum Algorithms  
+🎯 Building a professional GitHub portfolio in 120 days  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills (Learning)
+- Python
+- Qiskit
+- Quantum Computing Basics
+- Linear Algebra (Beginner)
+
+---
+
+## 📌 Current Focus
+- Understanding Qubits
+- Quantum Gates (H, X, Z)
+- Building my first quantum projects
+
+---
+
+## 🎯 Goals (2026)
+- ✅ Build 5+ Quantum Projects
+- ✅ Learn Quantum Algorithms
+- ✅ Get GitHub Certification
+- ✅ Contribute to Open Source
+
+---
+
+## 📚 My Journey
+Follow my daily progress 👉 [Quantum Journey Repo](#)
+
+---
+
+## 📫 Contact
+- Email: mbmalik00786@gmail.com
