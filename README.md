@@ -2,7 +2,6 @@
 
 🚀 Aspiring Quantum Computing Developer  
 💻 Learning Python, Qiskit & Quantum Algorithms  
-🎯 Building a professional GitHub portfolio in 120 days  
 
 ---
 
