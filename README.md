@@ -8,8 +8,8 @@
 ## 🧠 Skills (Learning)
 - Python
 - Qiskit
-- Quantum Computing Basics
-- Linear Algebra (Beginner)
+- Quantum Computing
+- Linear Algebra
 
 ---
 
